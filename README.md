@@ -3,10 +3,10 @@ Testes de API com Supertest – Swagger Petstore
 Projeto de automação de testes de API utilizando Supertest e Jest, realizando operações de CRUD na entidade User da API pública Swagger Petstore.
 
 **Tecnologias utilizadas**
-✅ Node.js
-✅ Jest
-✅ Supertest
-✅ API pública: https://-petstore.swagger.io
+- ✅ Node.js
+- ✅ Jest
+- ✅ Supertest
+- ✅ API pública: https://-petstore.swagger.io
 
 **Objetivo**
 
