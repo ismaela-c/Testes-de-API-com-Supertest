@@ -17,3 +17,6 @@ Validar o funcionamento dos endpoints da entidade User, cobrindo:
 - Remoção de usuário (DELETE) ✅ 
 
 Os testes foram implementados também utilizando abordagem Data Driven, com massa de dados externa.
+
+**Execução**
+https://www.loom.com/share/942a42762637478dbe016f75164c66c3
